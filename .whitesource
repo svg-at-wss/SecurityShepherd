@@ -11,13 +11,5 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW"
-  },
-  "enableRenovate" : true,
-  "packageRules": [
-    {
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
-      "automerge": true
-    }
-  ],
-  "enableImpactAnalysis"=true
+  }
 }
